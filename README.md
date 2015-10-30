@@ -1,1 +1,2 @@
 # Specs
+Magnet CocoaPods Specs
